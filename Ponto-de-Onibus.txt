@@ -1,3 +1,15 @@
+#############
+Como Instalar
+#############
+
+Siga os passos da imagem Ponto-de-Onibus-install.jpg.
+
+Os menus podem variar de acordo com a versão do sistema operacional.
+
+Após instalar o preset faça o restart do JOSM.
+
+Se alterar o arquivo xml será necessário fazer o restart para que o JOSM carregue sua atualização.
+
 ##########
 Como usar
 #########
