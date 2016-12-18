@@ -1,0 +1,7 @@
+##########
+Como usar
+#########
+
+No editor JOSM adicione um nó ao mapa e depois vá no menu de Presets e escolha uma das opções: na via ou na calçada.
+
+As tags serão aplicadas automaticamente.
