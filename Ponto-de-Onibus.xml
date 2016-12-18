@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+    author="Bonix-Mapper"
+    version="1.0"
+    shortdescription="Ponto de Ônibus"
+    description="Preset com dois submenus: na via e na calçada.">
+
+    <group name="Ponto de Ônibus" icon="presets/bus.png">
+
+    <item name="Mapeando na via"  icon="presets/bus.png" type="node">
+        <key key="bus" value="yes" />
+        <key key="public_transport" value="stop_position" />
+    </item>
+
+    <item name="Mapeando na calçada" icon="presets/platform_bus.png" type="node">
+        <key key="bus" value="yes" />
+        <key key="highway" value="bus_stop" />
+        <key key="public_transport" value="platform" />
+    </item>
+    </group>
+</presets>
