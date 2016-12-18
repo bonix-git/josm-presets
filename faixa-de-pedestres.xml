@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+    author="Bonix-Mapper"
+    version="1.0"
+    shortdescription="Faixa de Pedestres"
+    description="Preset básico aprendido em leranOSM.org">
+
+
+    <item name="Faixa de Pedestres" type="node,closedway">
+        <key key="source" value="Bing" />
+        <key key="highway" value="crossing" />
+        <key key="crossing_ref" value="zebra" />
+        <key key="crossing" value="uncontrolled" />
+    </item>
+
+</presets>
