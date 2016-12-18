@@ -1,6 +1,6 @@
 # josm-presets
 
-Presets utilizados em edição com JOSM.
+Presets utilizados em edições com JOSM.
 
 Modificar de acordo com a sua necessidade. As configurações utilizadas estão ajustadas para determinados tipos de edição que faço.
 
